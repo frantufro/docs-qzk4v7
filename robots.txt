@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-eccw70.cuansalam.sbs/sitemap.xml
